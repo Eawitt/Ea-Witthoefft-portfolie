@@ -33,7 +33,7 @@ div.box {
 background-color: antiquewhite;
 }
 div.box2 {
-  position: fixed;
+  position: relative;
   top: 189px;
   left: 350px; 
   
